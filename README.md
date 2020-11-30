@@ -1,5 +1,8 @@
 # LOTUS-IBIScontrol-Stream-Deck
- 
+
+## Einschränkungen
+- Aktuell wird nur die 64bit Variante von LOTUS unterstützt (64bit Plugin).
+
 ## Installation
 ### Schritt 1
 Lade die ZIP Datei für die aktuelle Version herunter, [Releases](https://github.com/gcWorld/LOTUS-IBIScontrol-Stream-Deck/releases).
