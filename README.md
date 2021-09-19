@@ -13,7 +13,7 @@ Unter Assets, Source Code (zip)
 Die beiden Dateien im Plugins Ordner in den LOTUS\Plugins Ordner kopieren.
 
 ### Schritt 3
-Die beiden Dateien im StreamDeck Ordner nacheinander ausführen. Zuerst die de.gcmods.ibiscontrol.streamDeckPlugin, dann die LOTUS-XL.streamDeckProfile
+Die beiden Dateien im StreamDeck Ordner nacheinander ausführen. Zuerst die de.gcmods.ibiscontrol.streamDeckPlugin, dann falls ein Stream Deck XL vorhanden ist die LOTUS-XL.streamDeckProfile
 
 ## Fehler oder Probleme?
 Bitte ein Ticket über "[Issues](https://github.com/gcWorld/LOTUS-IBIScontrol-Stream-Deck/issues)" anlegen.
